@@ -1,0 +1,7 @@
+streamlit>=1.40
+networkx>=3.4
+pandas>=2.2
+matplotlib>=3.8
+osmnx>=2.1
+scikit-learn>=1.7
+requests>=2.32
